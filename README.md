@@ -18,10 +18,10 @@ JavaScript is a high-level, interpreted programming language that is primarily u
 ---
 
 ## Javascript Docs
-🔗:![Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+🔗: [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Javascirpt Roadmap
-🔗:![Roadmap](https://roadmap.sh/javascript)
+🔗: [Roadmap](https://roadmap.sh/javascript)
 
 
 > GitHub Education Package Will Enable you to get free 6 months on Frontend Mentors and Educative; and 3 free months on Scrimba. Certificates of Completion are provided!
@@ -38,22 +38,39 @@ JavaScript is a high-level, interpreted programming language that is primarily u
 <br>
 
 # Our Repositories Related to JavaScript ⭐
-1. https://github.com/COSSAVVU/awesome-javascript
-2. https://github.com/COSSAVVU/awesome-nextjs
-3. https://github.com/COSSAVVU/awesome-nodejs
-4. https://github.com/COSSAVVU/awesome-deno
-5. https://github.com/COSSAVVU/awesome-bun
-6. https://github.com/COSSAVVU/awesome-react
-7. https://github.com/COSSAVVU/react/tree/main
-8. https://github.com/COSSAVVU/awesome-redux
-9. https://github.com/COSSAVVU/awesome-preact
-10. https://github.com/COSSAVVU/awesome-react-native
-11. https://github.com/COSSAVVU/awesome-electron
-12. https://github.com/COSSAVVU/awesome-angular/tree/gh-pages
-13. https://github.com/COSSAVVU/awesome-vue/tree/master
-14. https://github.com/COSSAVVU/awesome-svelte/tree/main
-15. https://github.com/COSSAVVU/TypeScript/tree/main
 
+1. [Awesome Javascript](https://github.com/COSSAVVU/awesome-javascript)
+This curated collection features a wide range of JavaScript libraries, frameworks, tools, and resources that are perfect for both beginners and experienced developers. Whether you're looking for browser-side libraries, Node.js modules, or development tools, you'll find something useful here.
+2. [Awesome NextJS](https://github.com/COSSAVVU/awesome-nextjs)
+This curated collection features a variety of Next.js frameworks, libraries, tools, and resources perfect for enhancing your Next.js development experience. Whether you're building server-rendered React applications, static websites, or anything in between, you'll find invaluable resources here.
+3. [Awesome Nodejs](https://github.com/COSSAVVU/awesome-nodejs)
+ This curated collection features a wide range of Node.js frameworks, libraries, tools, and resources perfect for building scalable and efficient server-side applications. Whether you're developing APIs, web applications, or backend services, you'll find invaluable resources here.
+4. [Awesome Deno](https://github.com/COSSAVVU/awesome-deno)
+A curated list of Deno resources, libraries, tools, and tutorials. Perfect for developers looking to explore and master Deno, a modern runtime for JavaScript and TypeScript.
+5. [Awesome Bun](https://github.com/COSSAVVU/awesome-bun)
+This repository gathers the best libraries, frameworks, and tools for the Bun JavaScript runtime, aiming to simplify and enhance the development experience.
+6. [Awesome React](https://github.com/COSSAVVU/awesome-react)
+A comprehensive collection of React resources, including libraries, tools, and articles. Ideal for React developers who want to stay up-to-date with the latest trends and best practices.
+7. [React Repository](https://github.com/COSSAVVU/react/tree/main)
+The official repository for the React framework, containing source code, documentation, and examples to help you build user interfaces with React.
+8. [Awesome Redux](https://github.com/COSSAVVU/awesome-redux)
+A curated list of Redux libraries, tools, and learning resources. This repository is perfect for developers looking to manage state in their applications more effectively.
+9. [Awesome Preact](https://github.com/COSSAVVU/awesome-preact)
+A collection of resources for Preact, a fast and lightweight alternative to React. This list includes libraries, tools, and tutorials for Preact development.
+10. [Awesome React Native](https://github.com/COSSAVVU/awesome-react-native)
+A curated list of React Native libraries, tools, and resources. Ideal for developers building mobile applications using React Native.
+11. [Awesome Electron](https://github.com/COSSAVVU/awesome-electron)
+A collection of resources for Electron, a framework for building cross-platform desktop applications. This list includes libraries, tools, and tutorials for Electron development.
+12. [Awesome Angular](https://github.com/COSSAVVU/awesome-angular/tree/gh-pages)
+A curated list of Angular resources, including libraries, tools, and articles. This repository is perfect for Angular developers looking to enhance their skills and projects.
+13. [Awesome Vue](https://github.com/COSSAVVU/awesome-vue/tree/master)
+A comprehensive collection of Vue.jsresources, including libraries, tools, and tutorials. This list is perfect for developers using Vue.jsto build interactive user interfaces.
+14. [Awesome Svelte](https://github.com/COSSAVVU/awesome-svelte/tree/main)
+A curated list of Svelte resources, including libraries, tools, and tutorials. Ideal for developers exploring the Svelte framework for building fast and dynamic web applications.
+15. [TypeScript Repository](https://github.com/COSSAVVU/TypeScript/tree/main)
+The official repository for TypeScript, containing source code, documentation, and examples to help you leverage the power of TypeScript in your projects.
+
+ 
 
 # Ecosystem
 <div align="center">
