@@ -112,6 +112,9 @@ The official repository for TypeScript, containing source code, documentation, a
 </div>
 
 
+(https://javascript30.com/)[Javascript IN 30 DAYS]
+
+
 # <a id="certs"></a> JavaScript Free Certificates
 These are some free Certificates You can obtain online. Post them on your LinkedIn and CV! From our [Awesome-Certificates](https://github.com/COSSAVVU/awesome-certificates) repo ⭐
 🏅= Digital Badge
